@@ -24,7 +24,7 @@ int main(void)
     printf("address of value1: %p\n", &value1);
     printf("address of value2: %p\n", &value2);
 
-    return 0;
+    return (0);
 }
 
 
